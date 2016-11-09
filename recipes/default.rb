@@ -8,5 +8,5 @@
 # package 'figlet'
 
 template '/etc/motd' do 
-  source 'motd.erb'
+  source 'motd2.erb'
 end
